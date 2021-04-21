@@ -22,7 +22,7 @@ evilburger. vx =40
 evilburger. vy =60
 evilburger .x = randint(0, 160)
 evilburger.setFlag(SpriteFlag.BounceOnWall, true)
-
+evilburger. ay = 70
 
 
 }
